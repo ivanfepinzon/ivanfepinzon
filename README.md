@@ -22,7 +22,7 @@ class IvanPinzon:
         self.mision     = "Hacer la IA accesible para toda Alegra"
 
     def hoy(self):
-        return "Construyendo gateways de modelos, agentes y formación en IA 🚀"
+        return "Construyendo gateways de modelos, agentes con IA 🚀"
 ```
 
 <br>
@@ -31,20 +31,20 @@ class IvanPinzon:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-16213e?style=for-the-badge&logo=python&logoColor=8b98b8)
-![TypeScript](https://img.shields.io/badge/TypeScript-16213e?style=for-the-badge&logo=typescript&logoColor=8b98b8)
-![Next.js](https://img.shields.io/badge/Next.js-16213e?style=for-the-badge&logo=nextdotjs&logoColor=8b98b8)
-![React](https://img.shields.io/badge/React-16213e?style=for-the-badge&logo=react&logoColor=8b98b8)
-![Node.js](https://img.shields.io/badge/Node.js-16213e?style=for-the-badge&logo=nodedotjs&logoColor=8b98b8)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Supabase](https://img.shields.io/badge/Supabase-16213e?style=for-the-badge&logo=supabase&logoColor=8b98b8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16213e?style=for-the-badge&logo=postgresql&logoColor=8b98b8)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-16213e?style=for-the-badge&logo=googlecloud&logoColor=8b98b8)
-![Docker](https://img.shields.io/badge/Docker-16213e?style=for-the-badge&logo=docker&logoColor=8b98b8)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Claude](https://img.shields.io/badge/Claude-16213e?style=for-the-badge&logo=anthropic&logoColor=8b98b8)
-![LLM Gateways](https://img.shields.io/badge/LLM_Gateways-16213e?style=for-the-badge&logo=openai&logoColor=8b98b8)
-![n8n](https://img.shields.io/badge/n8n-16213e?style=for-the-badge&logo=n8n&logoColor=8b98b8)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLM Gateways](https://img.shields.io/badge/LLM_Gateways-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
@@ -56,12 +56,6 @@ class IvanPinzon:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanfepinzon&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1a2e&title_color=6C63C4&icon_color=8b98b8&text_color=c9c3b3" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanfepinzon&layout=compact&hide_border=true&bg_color=1a1a2e&title_color=6C63C4&text_color=c9c3b3" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanfepinzon&hide_border=true&background=1a1a2e&stroke=2a3a5e&ring=6C63C4&fire=6C63C4&currStreakLabel=8b98b8&sideLabels=8b98b8&dates=8b98b8&sideNums=c9c3b3&currStreakNum=c9c3b3&excludeDaysLabel=8b98b8" />
 
 </div>
 
