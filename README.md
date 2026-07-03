@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Iv%C3%A1n%20Felipe%20Pinz%C3%B3n&fontSize=48&fontColor=e8e0d0&animation=fadeIn&fontAlignY=38&desc=AI%20Engineering%20%C2%B7%20Internal%20Tooling%20%C2%B7%20Enablement&descAlignY=58&descSize=18&descColor=8b98b8" width="100%" />
-
 <a href="https://github.com/ivanfepinzon">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63C4&center=true&vCenter=true&width=600&lines=Construyendo+el+ecosistema+de+IA+en+Alegra;Squad+IA+%C2%B7+IT%2FData;Haciendo+la+IA+accesible+para+todos" alt="Typing SVG" />
 </a>
